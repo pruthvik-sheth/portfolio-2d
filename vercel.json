@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/about",
+            "dest": "/index.html",
+            "status": 200
+        },
+        {
+            "src": "/projects",
+            "dest": "/index.html",
+            "status": 200
+        },
+        {
+            "src": "/experience",
+            "dest": "/index.html",
+            "status": 200
+        },
+        {
+            "src": "/contact",
+            "dest": "/index.html",
+            "status": 200
+        }
+    ]
+}
