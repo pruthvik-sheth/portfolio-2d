@@ -1,4 +1,4 @@
-import { SiMaildotru, SiLinkedin, SiGithub, SiTwitter, SiInstagram } from "react-icons/si";
+import { SiMaildotru, SiLinkedin, SiGithub, SiTwitter } from "react-icons/si";
 
 const ContactPage = () => {
 
@@ -23,17 +23,13 @@ const ContactPage = () => {
                     </div>
                     <div className="flex items-center mb-4">
                         <SiGithub />
-                        <p className="mb-0 ml-4">Explore my coding adventures on: <a href="https://github.com/pruthvik00911" className="text-accent underline">github.com/pruthvik00911</a></p>
+                        <p className="mb-0 ml-4">Explore my coding adventures on: <a href="https://github.com/pruthvik-sheth" className="text-accent underline">github.com/pruthvik-sheth</a></p>
                     </div>
                     <div className="flex items-center mb-4">
                         <SiTwitter />
-                        <p className="mb-0 ml-4">Twitter: <a href="https://github.com/pruthvik00911" className="text-accent underline">github.com/pruthvik00911</a></p>
+                        <p className="mb-0 ml-4">Twitter: <a href="https://twitter.com/pruthvik_sheth" className="text-accent underline">twitter.com/pruthvik_sheth</a></p>
                     </div>
-                    <div className="flex items-center mb-4">
-                        <SiInstagram />
-                        <p className="mb-0 ml-4">Instagram: <a href="https://github.com/pruthvik00911" className="text-accent underline">github.com/pruthvik00911</a></p>
-                    </div>
-                    <p className="mt-12 mb-0">I'm looking forward to hearing from you! Your thoughts and ideas are always welcome.<br />Best regards,<br />Pruthvik Sheth</p>
+                    <p className="mt-10 mb-0">I'm looking forward to hearing from you! Your thoughts and ideas are always welcome.<br />Best regards,<br /><br />Pruthvik Sheth</p>
                 </div>
             </div>
         </div >
